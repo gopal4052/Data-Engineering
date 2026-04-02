@@ -47,7 +47,7 @@ Raw Data Source
 |
 └── README.md
 ```
-Other practice notebook file.
+Other practice notebook file also uploaded.
 ---
 
 ## 🥉 Bronze Layer — Raw Ingestion
